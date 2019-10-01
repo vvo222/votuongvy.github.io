@@ -1,11 +1,11 @@
 # Site settings
-author: charming-archiver-3281
-title: 
+author: vy vo
+title: Coding Blog
 header-img: img/home-bg.png
 email: tuonggvy.vo@gmail.com
-copyright_name: charming-archiver-3281
+copyright_name: vy vo
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Blog for my codes
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  votuongvy
